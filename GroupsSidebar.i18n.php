@@ -201,6 +201,13 @@ $messages['ms'] = array(
 	'groupssidebar-desc' => 'Sambungan ini membolehkan pentadbir tapak menyertakan unsur-unsur bar sisi untuk kumpulan pengguna tertentu',
 );
 
+/** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
+ * @author Nghtwlkr
+ */
+$messages['nb'] = array(
+	'groupssidebar-desc' => 'Denne utvidelsen tillater sideadminer å inkludere sidebar-element for spesifikke brukergrupper',
+);
+
 /** Dutch (Nederlands)
  * @author Siebrand
  */
@@ -213,13 +220,6 @@ $messages['nl'] = array(
  */
 $messages['nn'] = array(
 	'groupssidebar-desc' => 'Denne utvidinga lèt sideadministratorar inkludera element i sidemenyen for einskilde brukargrupper',
-);
-
-/** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
- * @author Nghtwlkr
- */
-$messages['nb'] = array(
-	'groupssidebar-desc' => 'Denne utvidelsen tillater sideadminer å inkludere sidebar-element for spesifikke brukergrupper',
 );
 
 /** Occitan (Occitan)
@@ -296,6 +296,13 @@ $messages['sr-el'] = array(
  */
 $messages['sv'] = array(
 	'groupssidebar-desc' => 'Detta programtillägg möjliggör för sajtadministratörer att inkludera element till sidokolumnen för specifika användargrupper',
+);
+
+/** Tamil (தமிழ்)
+ * @author Karthi.dr
+ */
+$messages['ta'] = array(
+	'groupssidebar-desc' => 'இந்த நீட்சி தள நிர்வாகிகள் குறிப்பிட்ட பயனர் குழுக்களுக்குப் பக்கப்பட்டி சேர்த்திட உதவுகிறது',
 );
 
 /** Tagalog (Tagalog)
