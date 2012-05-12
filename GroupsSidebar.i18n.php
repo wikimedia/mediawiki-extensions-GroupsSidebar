@@ -217,6 +217,7 @@ $messages['nl'] = array(
 
 /** Norwegian Nynorsk (‪Norsk (nynorsk)‬)
  * @author Harald Khan
+ * @author Njardarlogar
  */
 $messages['nn'] = array(
 	'groupssidebar-desc' => 'Denne utvidinga lèt sideadministratorar inkludera element i sidemenyen for einskilde brukargrupper',
