@@ -173,6 +173,13 @@ $messages['ja'] = array(
 	'groupssidebar-desc' => 'この拡張機能は、サイト管理者が特定の利用者グループ向けにサイドバー項目を加えることができるようにする',
 );
 
+/** Korean (한국어)
+ * @author 아라
+ */
+$messages['ko'] = array(
+	'groupssidebar-desc' => '이 확장 기능은 사이트 관리자가 특정 사용자 그룹에 대해 사이드바 요소를 포함하도록 활성화합니다',
+);
+
 /** Colognian (Ripoarisch)
  * @author Purodha
  */
