@@ -18,7 +18,7 @@ $messages['ar'] = array(
 	'groupssidebar-desc' => 'هذا الامتداد يوفر لإداريي الموقع القدرة على تضمين عناصر الشريط الجانبي لمجموعات مستخدم محددة',
 );
 
-/** Asturian (Asturianu)
+/** Asturian (asturianu)
  * @author Xuacu
  */
 $messages['ast'] = array(
@@ -32,28 +32,28 @@ $messages['be-tarask'] = array(
 	'groupssidebar-desc' => 'Гэтае пашырэньне дазваляе адміністратарам сайта ўключаць элемэнты бакавой панэлі для пазначаных групаў удзельнікаў',
 );
 
-/** Breton (Brezhoneg)
+/** Breton (brezhoneg)
  * @author Fulup
  */
 $messages['br'] = array(
 	'groupssidebar-desc' => "Gant an astenn-mañ e c'hall merourien al lec'hienn enframmañ elfennoù er varrenn gostez diouzh strolladoù an implijerien",
 );
 
-/** Bosnian (Bosanski)
+/** Bosnian (bosanski)
  * @author CERminator
  */
 $messages['bs'] = array(
 	'groupssidebar-desc' => 'Ovo proširenje omoguće administratorima stranice da uključe elemente sa alatne trake za određene grupe korisnika',
 );
 
-/** Catalan (Català)
+/** Catalan (català)
  * @author Paucabot
  */
 $messages['ca'] = array(
 	'groupssidebar-desc' => "Aquesta extensió permet als administradors del lloc incloure elements a la barra lateral per a grups específics d'usuaris",
 );
 
-/** Czech (Česky)
+/** Czech (česky)
  * @author Reaperman
  */
 $messages['cs'] = array(
@@ -75,28 +75,28 @@ $messages['dsb'] = array(
 	'groupssidebar-desc' => 'Toś to rozšyrjenje zmóžnja sedłowym administratoram elementy bocnice za wěste wužywarske kupki zapśěgnuś',
 );
 
-/** Spanish (Español)
+/** Spanish (español)
  * @author Translationista
  */
 $messages['es'] = array(
 	'groupssidebar-desc' => 'Esta extensión posibilita a los administradores del sitio a incluir elementos en la barra lateral para grupos de usuarios específicos',
 );
 
-/** Basque (Euskara)
+/** Basque (euskara)
  * @author An13sa
  */
 $messages['eu'] = array(
 	'groupssidebar-desc' => 'Luzapen honi esker, guneko administratzaileek alboko barrako elementuak gehitu ditzazkete lankide talde zehazt bati',
 );
 
-/** Finnish (Suomi)
+/** Finnish (suomi)
  * @author Crt
  */
 $messages['fi'] = array(
 	'groupssidebar-desc' => 'Laajennus, joka mahdollistaa sivuston ylläpitäjän sisällyttää sivupalkkielementtejä tietyille käyttäjäryhmille.',
 );
 
-/** French (Français)
+/** French (français)
  * @author IAlex
  */
 $messages['fr'] = array(
@@ -138,14 +138,14 @@ $messages['hsb'] = array(
 	'groupssidebar-desc' => 'Tute rozšěrjenje zmóžnja sydłowym administratoram elementy bóčnicy za wěste wužiwarske skupiny zapřijeć',
 );
 
-/** Hungarian (Magyar)
+/** Hungarian (magyar)
  * @author Dani
  */
 $messages['hu'] = array(
 	'groupssidebar-desc' => 'Ez a kiterjesztés lehetővé teszi az adminisztrátorok számára, hogy csoportspecifikus elemeket helyezzenek el az oldalsávon.',
 );
 
-/** Interlingua (Interlingua)
+/** Interlingua (interlingua)
  * @author McDutchie
  */
 $messages['ia'] = array(
@@ -159,7 +159,7 @@ $messages['id'] = array(
 	'groupssidebar-desc' => 'Memungkinkan admin situs untuk menyediakan bilah sisi spesifik per kelompok pengguna',
 );
 
-/** Italian (Italiano)
+/** Italian (italiano)
  * @author Civvì
  */
 $messages['it'] = array(
@@ -194,7 +194,7 @@ $messages['lb'] = array(
 	'groupssidebar-desc' => 'Dës Erweiderung erlaabt et den Administrateure fir Navigatiounselementer am säitleche Menu a Fonctioun vun de Benotzergruppen, zu deenen de Benotzer gehéiert, derbäizesetzen',
 );
 
-/** Macedonian (Македонски)
+/** Macedonian (македонски)
  * @author Bjankuloski06
  */
 $messages['mk'] = array(
@@ -222,7 +222,7 @@ $messages['nl'] = array(
 	'groupssidebar-desc' => 'Maakt het mogelijk om gebruikersgroepspecifieke elementen in de menubalk weer te geven',
 );
 
-/** Norwegian Nynorsk (‪Norsk (nynorsk)‬)
+/** Norwegian Nynorsk (‪norsk (nynorsk)‬)
  * @author Harald Khan
  * @author Njardarlogar
  */
@@ -230,14 +230,14 @@ $messages['nn'] = array(
 	'groupssidebar-desc' => 'Denne utvidinga lèt sideadministratorar inkludera element i sidemenyen for einskilde brukargrupper',
 );
 
-/** Occitan (Occitan)
+/** Occitan (occitan)
  * @author Cedric31
  */
 $messages['oc'] = array(
 	'groupssidebar-desc' => "Aquesta extension permet als administrators del site d'enclure d'elements dins la barra laterala en foncion dels gropes de l'utilizaire",
 );
 
-/** Polish (Polski)
+/** Polish (polski)
  * @author Sp5uhe
  */
 $messages['pl'] = array(
@@ -251,42 +251,42 @@ $messages['pms'] = array(
 	'groupssidebar-desc' => "Sta estension-sì a abìlita j'aministrator dël sit a anserì element ant la banda lateral për specìfiche partìe d'utent",
 );
 
-/** Portuguese (Português)
+/** Portuguese (português)
  * @author Hamilton Abreu
  */
 $messages['pt'] = array(
 	'groupssidebar-desc' => 'Esta extensão permite que os administradores disponibilizem certos elementos da barra lateral a grupos específicos de utilizadores',
 );
 
-/** Brazilian Portuguese (Português do Brasil)
+/** Brazilian Portuguese (português do Brasil)
  * @author Daemorris
  */
 $messages['pt-br'] = array(
 	'groupssidebar-desc' => 'Esta extensão permite a administradores incluir elementos de barra lateral para grupos específicos de usuário',
 );
 
-/** Tarandíne (Tarandíne)
+/** tarandíne (tarandíne)
  * @author Joetaras
  */
 $messages['roa-tara'] = array(
 	'groupssidebar-desc' => "Queste estenzione abbilete l'amministrature d'u site a ingludere le elemende d'a barra laterale pe specifeche gruppe de utinde",
 );
 
-/** Russian (Русский)
+/** Russian (русский)
  * @author Lockal
  */
 $messages['ru'] = array(
 	'groupssidebar-desc' => 'Это расширение позволяет администраторам сайта включать элементы боковой панели для определённых групп участников',
 );
 
-/** Slovenian (Slovenščina)
+/** Slovenian (slovenščina)
  * @author Dbc334
  */
 $messages['sl'] = array(
 	'groupssidebar-desc' => 'Ta razširitev omogoča administratorjem strani v stransko vrstico vključevati elemente za posebne skupine uporabnikov',
 );
 
-/** Serbian (Cyrillic script) (‪Српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (‪српски (ћирилица)‬)
  * @author Rancher
  * @author Михајло Анђелковић
  */
@@ -294,12 +294,12 @@ $messages['sr-ec'] = array(
 	'groupssidebar-desc' => 'Ово проширење омогућава администраторима да унесу елементе у бочну палету за одређене корисничке групе',
 );
 
-/** Serbian (Latin script) (‪Srpski (latinica)‬) */
+/** Serbian (Latin script) (‪srpski (latinica)‬) */
 $messages['sr-el'] = array(
 	'groupssidebar-desc' => 'Ova ekstenzija omogućava administratorima sajta da uključe sajdbar elemente za određene korisničke grupe',
 );
 
-/** Swedish (Svenska)
+/** Swedish (svenska)
  * @author Boivie
  */
 $messages['sv'] = array(
@@ -327,21 +327,21 @@ $messages['tr'] = array(
 	'groupssidebar-desc' => 'Bu eklenti, site hizmetlilerinin spesifik kullanıcı grupları için kenar çubuğu bileşenlerini etkinleştirmesini sağlar',
 );
 
-/** Ukrainian (Українська)
+/** Ukrainian (українська)
  * @author Prima klasy4na
  */
 $messages['uk'] = array(
 	'groupssidebar-desc' => 'Це розширення дозволяє адміністраторам сайту включати елементи бічної панелі для конкретних груп користувачів',
 );
 
-/** Simplified Chinese (‪中文(简体)‬)
+/** Simplified Chinese (‪中文（简体）‬)
  * @author Hydra
  */
 $messages['zh-hans'] = array(
 	'groupssidebar-desc' => '此扩展使站点管理员，包括为特定用户组的侧栏元素',
 );
 
-/** Traditional Chinese (‪中文(繁體)‬)
+/** Traditional Chinese (‪中文（繁體）‬)
  * @author Mark85296341
  */
 $messages['zh-hant'] = array(
