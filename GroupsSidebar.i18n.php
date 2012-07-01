@@ -25,7 +25,7 @@ $messages['ast'] = array(
 	'groupssidebar-desc' => "Esta estensión permite que los alministradores del sitiu puedan amestar elementos de la barra llateral pa grupos específicos d'usuarios",
 );
 
-/** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
  * @author EugeneZelenko
  */
 $messages['be-tarask'] = array(
@@ -68,7 +68,7 @@ $messages['de'] = array(
 	'groupssidebar-desc' => 'Diese Erweiterung ermöglicht es Seitenadministratoren, für einzelne Benutzergruppen Elemente zur Seitenleiste hinzuzufügen',
 );
 
-/** Lower Sorbian (Dolnoserbski)
+/** Lower Sorbian (dolnoserbski)
  * @author Michawiki
  */
 $messages['dsb'] = array(
@@ -103,7 +103,7 @@ $messages['fr'] = array(
 	'groupssidebar-desc' => "Cette extension permet aux administrateurs du site d'inclure des éléments dans la barre latérale en fonction des groupes de l'utilisateurs",
 );
 
-/** Galician (Galego)
+/** Galician (galego)
  * @author Toliño
  */
 $messages['gl'] = array(
@@ -131,7 +131,7 @@ $messages['hi'] = array(
 	'groupssidebar-desc' => 'यह विस्तार विशिष्ट प्रयोक्ता समूहों के लिए साइडबार सम्मिलित करने में स्थल प्रशासकों को सक्षम करता है।',
 );
 
-/** Upper Sorbian (Hornjoserbsce)
+/** Upper Sorbian (hornjoserbsce)
  * @author Michawiki
  */
 $messages['hsb'] = array(
