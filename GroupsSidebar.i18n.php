@@ -208,7 +208,7 @@ $messages['ms'] = array(
 	'groupssidebar-desc' => 'Sambungan ini membolehkan pentadbir tapak menyertakan unsur-unsur bar sisi untuk kumpulan pengguna tertentu',
 );
 
-/** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
+/** Norwegian Bokmål (‪norsk (bokmål)‬)
  * @author Nghtwlkr
  */
 $messages['nb'] = array(
