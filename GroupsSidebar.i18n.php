@@ -25,7 +25,7 @@ $messages['ast'] = array(
 	'groupssidebar-desc' => "Esta estensión permite que los alministradores del sitiu puedan amestar elementos de la barra llateral pa grupos específicos d'usuarios",
 );
 
-/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
  * @author EugeneZelenko
  */
 $messages['be-tarask'] = array(
@@ -208,7 +208,7 @@ $messages['ms'] = array(
 	'groupssidebar-desc' => 'Sambungan ini membolehkan pentadbir tapak menyertakan unsur-unsur bar sisi untuk kumpulan pengguna tertentu',
 );
 
-/** Norwegian Bokmål (‪norsk (bokmål)‬)
+/** Norwegian Bokmål (norsk (bokmål)‎)
  * @author Nghtwlkr
  */
 $messages['nb'] = array(
@@ -222,7 +222,7 @@ $messages['nl'] = array(
 	'groupssidebar-desc' => 'Maakt het mogelijk om gebruikersgroepspecifieke elementen in de menubalk weer te geven',
 );
 
-/** Norwegian Nynorsk (‪norsk (nynorsk)‬)
+/** Norwegian Nynorsk (norsk (nynorsk)‎)
  * @author Harald Khan
  * @author Njardarlogar
  */
@@ -286,7 +286,7 @@ $messages['sl'] = array(
 	'groupssidebar-desc' => 'Ta razširitev omogoča administratorjem strani v stransko vrstico vključevati elemente za posebne skupine uporabnikov',
 );
 
-/** Serbian (Cyrillic script) (‪српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (српски (ћирилица)‎)
  * @author Rancher
  * @author Михајло Анђелковић
  */
@@ -294,7 +294,7 @@ $messages['sr-ec'] = array(
 	'groupssidebar-desc' => 'Ово проширење омогућава администраторима да унесу елементе у бочну палету за одређене корисничке групе',
 );
 
-/** Serbian (Latin script) (‪srpski (latinica)‬) */
+/** Serbian (Latin script) (srpski (latinica)‎) */
 $messages['sr-el'] = array(
 	'groupssidebar-desc' => 'Ova ekstenzija omogućava administratorima sajta da uključe sajdbar elemente za određene korisničke grupe',
 );
@@ -334,14 +334,14 @@ $messages['uk'] = array(
 	'groupssidebar-desc' => 'Це розширення дозволяє адміністраторам сайту включати елементи бічної панелі для конкретних груп користувачів',
 );
 
-/** Simplified Chinese (‪中文（简体）‬)
+/** Simplified Chinese (中文（简体）‎)
  * @author Hydra
  */
 $messages['zh-hans'] = array(
 	'groupssidebar-desc' => '此扩展使站点管理员，包括为特定用户组的侧栏元素',
 );
 
-/** Traditional Chinese (‪中文（繁體）‬)
+/** Traditional Chinese (中文（繁體）‎)
  * @author Mark85296341
  */
 $messages['zh-hant'] = array(
