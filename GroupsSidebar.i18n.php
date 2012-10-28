@@ -1,5 +1,6 @@
 <?php
 $messages = array();
+
 $messages['en'] = array(
     'groupssidebar-desc' => 'This extension enables site admins to include sidebar elements for specific user groups'
 );
@@ -294,7 +295,8 @@ $messages['sr-ec'] = array(
 	'groupssidebar-desc' => 'Ово проширење омогућава администраторима да унесу елементе у бочну палету за одређене корисничке групе',
 );
 
-/** Serbian (Latin script) (srpski (latinica)‎) */
+/** Serbian (Latin script) (srpski (latinica)‎)
+ */
 $messages['sr-el'] = array(
 	'groupssidebar-desc' => 'Ova ekstenzija omogućava administratorima sajta da uključe sajdbar elemente za određene korisničke grupe',
 );
@@ -347,4 +349,3 @@ $messages['zh-hans'] = array(
 $messages['zh-hant'] = array(
 	'groupssidebar-desc' => '此擴充套件使站點管理員，包含為特定使用者群組的側邊欄元素',
 );
-
