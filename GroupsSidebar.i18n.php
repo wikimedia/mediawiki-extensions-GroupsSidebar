@@ -209,6 +209,13 @@ $messages['ms'] = array(
 	'groupssidebar-desc' => 'Sambungan ini membolehkan pentadbir tapak menyertakan unsur-unsur bar sisi untuk kumpulan pengguna tertentu',
 );
 
+/** Maltese (Malti)
+ * @author Chrisportelli
+ */
+$messages['mt'] = array(
+	'groupssidebar-desc' => 'Din l-estensjoni tippermetti lill-amministraturi tas-sit sabiex jinkludu elementi speċifi għall-gruppi tal-utent fuq il-ġenb tal-paġna',
+);
+
 /** Norwegian Bokmål (norsk (bokmål)‎)
  * @author Nghtwlkr
  */
