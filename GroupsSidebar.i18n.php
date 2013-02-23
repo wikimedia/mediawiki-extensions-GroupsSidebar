@@ -195,6 +195,13 @@ $messages['lb'] = array(
 	'groupssidebar-desc' => 'Dës Erweiderung erlaabt et den Administrateure fir Navigatiounselementer am säitleche Menu a Fonctioun vun de Benotzergruppen, zu deenen de Benotzer gehéiert, derbäizesetzen',
 );
 
+/** Minangkabau (Baso Minangkabau)
+ * @author Iwan Novirion
+ */
+$messages['min'] = array(
+	'groupssidebar-desc' => 'Mambuek admin situs dapek manyadiokan bilah sisi khusus per kalompok pangguno',
+);
+
 /** Macedonian (македонски)
  * @author Bjankuloski06
  */
