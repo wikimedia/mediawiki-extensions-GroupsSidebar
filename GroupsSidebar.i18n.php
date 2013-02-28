@@ -7,9 +7,10 @@ $messages['en'] = array(
 
 /** Message documentation (Message documentation)
  * @author Fryed-peach
+ * @author Shirayuki
  */
 $messages['qqq'] = array(
-	'groupssidebar-desc' => '{{desc}}',
+	'groupssidebar-desc' => '{{desc|name=Groups Sidebar|url=http://www.mediawiki.org/wiki/Extension:GroupsSidebar}}',
 );
 
 /** Arabic (العربية)
