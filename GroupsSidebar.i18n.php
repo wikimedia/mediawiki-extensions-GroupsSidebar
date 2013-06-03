@@ -224,7 +224,7 @@ $messages['mt'] = array(
 	'groupssidebar-desc' => 'Din l-estensjoni tippermetti lill-amministraturi tas-sit sabiex jinkludu elementi speċifi għall-gruppi tal-utent fuq il-ġenb tal-paġna',
 );
 
-/** Norwegian Bokmål (norsk (bokmål)‎)
+/** Norwegian Bokmål (norsk bokmål)
  * @author Nghtwlkr
  */
 $messages['nb'] = array(
@@ -238,7 +238,7 @@ $messages['nl'] = array(
 	'groupssidebar-desc' => 'Maakt het mogelijk om gebruikersgroepspecifieke elementen in de menubalk weer te geven',
 );
 
-/** Norwegian Nynorsk (norsk (nynorsk)‎)
+/** Norwegian Nynorsk (norsk nynorsk)
  * @author Harald Khan
  * @author Njardarlogar
  */
