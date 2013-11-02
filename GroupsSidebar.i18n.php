@@ -194,7 +194,7 @@ $messages['ksh'] = array(
  * @author Soued031
  */
 $messages['lb'] = array(
-	'groupssidebar-desc' => 'Dës Erweiderung erlaabt et den Administrateure fir Navigatiounselementer am säitleche Menu a Funktioun vun de Benotzergruppen, zu deenen de Benotzer gehéiert, derbäizesetzen',
+	'groupssidebar-desc' => 'Dës Erweiderung erlaabt et den Administrateure fir Navigatiounselementer am säitleche Menü a Funktioun vun de Benotzergruppen, zu deenen de Benotzer gehéiert, derbäizesetzen',
 );
 
 /** Minangkabau (Baso Minangkabau)
