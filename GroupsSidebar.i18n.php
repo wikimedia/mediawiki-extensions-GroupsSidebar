@@ -55,7 +55,7 @@ $messages['ca'] = array(
 	'groupssidebar-desc' => "Aquesta extensió permet als administradors del lloc incloure elements a la barra lateral per a grups específics d'usuaris",
 );
 
-/** Czech (česky)
+/** Czech (čeština)
  * @author Reaperman
  */
 $messages['cs'] = array(
