@@ -91,6 +91,13 @@ $messages['eu'] = array(
 	'groupssidebar-desc' => 'Luzapen honi esker, guneko administratzaileek alboko barrako elementuak gehitu ditzazkete lankide talde zehazt bati',
 );
 
+/** Persian (فارسی)
+ * @author Armin1392
+ */
+$messages['fa'] = array(
+	'groupssidebar-desc' => 'این گستره ادمین‌های سایت را برای مشمول کردن عناصر نوار کناری برای گروه‌های کاربری ویژه فعال می‌کند',
+);
+
 /** Finnish (suomi)
  * @author Crt
  */
