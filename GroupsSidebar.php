@@ -10,11 +10,12 @@ $wgExtensionCredits['parserhook'][] = array(
 	'author' => 'Church of emacs',
 	'url' => 'https://www.mediawiki.org/wiki/Extension:GroupsSidebar',
 	'descriptionmsg' => 'groupssidebar-desc',
-	'version' => '0.1.1',
+	'version' => '0.2.0',
 );
 
 $dir = dirname(__FILE__) . '/';
 
 $wgAutoloadClasses['GroupsSidebar'] = $dir . 'GroupsSidebar.body.php'; # Tell MediaWiki to load the extension body.
 $wgHooks['SkinBuildSidebar'][] = array(new GroupsSidebar(), 'efHideSidebar');
+$wgMessagesDirs['GroupsSidebar'] = __DIR__ . '/i18n';
 $wgExtensionMessagesFiles['GroupsSidebar'] = $dir . 'GroupsSidebar.i18n.php';
