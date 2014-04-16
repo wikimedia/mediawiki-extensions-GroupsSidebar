@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Nghtwlkr"
-        ]
-    },
-    "groupssidebar-desc": "Denne utvidelsen tillater sideadminer å inkludere sidebar-element for spesifikke brukergrupper"
+	"@metadata": {
+		"authors": [
+			"Nghtwlkr"
+		]
+	},
+	"groupssidebar-desc": "Denne utvidelsen tillater sideadminer å inkludere sidebar-element for spesifikke brukergrupper"
 }

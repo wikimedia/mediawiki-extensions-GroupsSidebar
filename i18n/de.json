@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "Church of emacs",
-            "Imre"
-        ]
-    },
-    "groupssidebar-desc": "Diese Erweiterung ermöglicht es Seitenadministratoren, für einzelne Benutzergruppen Elemente zur Seitenleiste hinzuzufügen"
+	"@metadata": {
+		"authors": [
+			"Church of emacs",
+			"Imre"
+		]
+	},
+	"groupssidebar-desc": "Diese Erweiterung ermöglicht es Seitenadministratoren, für einzelne Benutzergruppen Elemente zur Seitenleiste hinzuzufügen"
 }

@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Reaperman"
-        ]
-    },
-    "groupssidebar-desc": "Tato extenze umožňuje správcům přidávat do postranního panelu prvky jen pro určité uživatelské skupiny"
+	"@metadata": {
+		"authors": [
+			"Reaperman"
+		]
+	},
+	"groupssidebar-desc": "Tato extenze umožňuje správcům přidávat do postranního panelu prvky jen pro určité uživatelské skupiny"
 }
