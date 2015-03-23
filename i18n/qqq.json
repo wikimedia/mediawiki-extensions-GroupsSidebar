@@ -2,8 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Fryed-peach",
-			"Shirayuki"
+			"Shirayuki",
+			"Umherirrender"
 		]
 	},
-	"groupssidebar-desc": "{{desc|name=Groups Sidebar|url=http://www.mediawiki.org/wiki/Extension:GroupsSidebar}}"
+	"groupssidebar-desc": "{{desc|name=Groups Sidebar|url=https://www.mediawiki.org/wiki/Extension:GroupsSidebar}}"
 }
