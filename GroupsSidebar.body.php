@@ -4,7 +4,7 @@ class GroupsSidebar {
 	/**
 	 * Gets called by Hook SkinBuildSidebar
 	 */
-	function efHideSidebar( $skin, &$bar ) {
+	public static function efHideSidebar( $skin, &$bar ) {
 		global $wgUser;
 		foreach ( $wgUser->getEffectiveGroups() as $group ) {
 			$message = 'sidebar-'.$group;
