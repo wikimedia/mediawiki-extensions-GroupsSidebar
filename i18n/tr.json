@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
+			"MuratTheTurkish",
 			"Vito Genovese"
 		]
 	},
-	"groupssidebar-desc": "Bu eklenti, site hizmetlilerinin spesifik kullanıcı grupları için kenar çubuğu bileşenlerini etkinleştirmesini sağlar"
+	"groupssidebar-desc": "Bu uzantı, site hizmetlilerin belirli kullanıcı grupları için kenar çubuğu öğeleri eklemesini sağlar"
 }
