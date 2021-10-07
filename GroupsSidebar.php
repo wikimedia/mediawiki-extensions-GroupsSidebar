@@ -1,5 +1,7 @@
 <?php
 
+use MediaWiki\MediaWikiServices;
+
 class GroupsSidebar {
 	/**
 	 * Gets called by Hook SkinBuildSidebar
@@ -9,7 +11,10 @@ class GroupsSidebar {
 	 * @return bool|array
 	 */
 	public static function efHideSidebar( $skin, &$bar ) {
-		foreach ( $skin->getUser()->getEffectiveGroups() as $group ) {
+		$groups = MediaWikiServices::getInstance()
+			->getUserGroupManager()
+			->getUserEffectiveGroups( $skin->getUser() );
+		foreach ( $groups as $group ) {
 			$message = 'sidebar-' . $group;
 			# addToSidebar currently won't throw errors if we call it
 			# with nonexisting pages, but better check and be sure
