@@ -4,13 +4,12 @@ use MediaWiki\MediaWikiServices;
 
 class GroupsSidebar {
 	/**
-	 * Gets called by Hook SkinBuildSidebar
+	 * Gets called by Hook SidebarBeforeOutput
 	 *
 	 * @param Skin $skin
-	 * @param Sidebar &$bar
-	 * @return bool|array
+	 * @param array &$sidebar
 	 */
-	public static function efHideSidebar( $skin, &$bar ) {
+	public static function efHideSidebar( Skin $skin, &$sidebar ) {
 		$groups = MediaWikiServices::getInstance()
 			->getUserGroupManager()
 			->getUserEffectiveGroups( $skin->getUser() );
@@ -19,9 +18,8 @@ class GroupsSidebar {
 			# addToSidebar currently won't throw errors if we call it
 			# with nonexisting pages, but better check and be sure
 			if ( Title::newFromText( $message, NS_MEDIAWIKI )->exists() ) {
-				$skin->addToSidebar( $bar, $message );
+				$skin->addToSidebar( $sidebar, $message );
 			}
 		}
-		return true;
 	}
 }
