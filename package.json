@@ -1,4 +1,5 @@
 {
+	"name": "GroupsSidebar",
 	"private": true,
 	"scripts": {
 		"test": "grunt test"
