@@ -17,7 +17,7 @@
 		"GroupsSidebar": "GroupsSidebar.php"
 	},
 	"Hooks": {
-		"SkinBuildSidebar": "GroupsSidebar::efHideSidebar"
+		"SidebarBeforeOutput": "GroupsSidebar::efHideSidebar"
 	},
 	"manifest_version": 2
 }
