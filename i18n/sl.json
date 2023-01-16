@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Dbc334"
+			"Dbc334",
+			"Eleassar"
 		]
 	},
-	"groupssidebar-desc": "Ta razširitev omogoča administratorjem strani v stransko vrstico vključevati elemente za posebne skupine uporabnikov"
+	"groupssidebar-desc": "Ta razširitev omogoča administratorjem strani v stransko letvico vključevati elemente za posebne skupine uporabnikov"
 }
