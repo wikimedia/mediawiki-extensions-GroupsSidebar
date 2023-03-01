@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"IAlex"
+			"IAlex",
+			"Verdy p"
 		]
 	},
-	"groupssidebar-desc": "Cette extension permet aux administrateurs du site d'inclure des éléments dans la barre latérale en fonction des groupes de l'utilisateurs"
+	"groupssidebar-desc": "Cette extension permet aux administrateurs du site d’inclure des éléments dans la barre latérale pour des groupes spécifiques d’utilisateurs"
 }
