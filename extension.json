@@ -16,8 +16,16 @@
 	"AutoloadClasses": {
 		"GroupsSidebar": "GroupsSidebar.php"
 	},
+	"HookHandlers": {
+		"GroupsSidebarHooks": {
+			"class": "GroupsSidebar",
+			"services": [
+				"UserGroupManager"
+			]
+		}
+	},
 	"Hooks": {
-		"SidebarBeforeOutput": "GroupsSidebar::efHideSidebar"
+		"SidebarBeforeOutput": "GroupsSidebarHooks"
 	},
 	"manifest_version": 2
 }

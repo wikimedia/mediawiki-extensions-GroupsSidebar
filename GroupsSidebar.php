@@ -1,19 +1,23 @@
 <?php
 
-use MediaWiki\MediaWikiServices;
+use MediaWiki\Hook\SidebarBeforeOutputHook;
 use MediaWiki\Title\Title;
+use MediaWiki\User\UserGroupManager;
 
-class GroupsSidebar {
+class GroupsSidebar implements SidebarBeforeOutputHook {
+
+	private UserGroupManager $userGroupManager;
+
+	public function __construct( UserGroupManager $userGroupManager ) {
+		$this->userGroupManager = $userGroupManager;
+	}
+
 	/**
-	 * Gets called by Hook SidebarBeforeOutput
-	 *
 	 * @param Skin $skin
 	 * @param array &$sidebar
 	 */
-	public static function efHideSidebar( Skin $skin, &$sidebar ) {
-		$groups = MediaWikiServices::getInstance()
-			->getUserGroupManager()
-			->getUserEffectiveGroups( $skin->getUser() );
+	public function onSidebarBeforeOutput( $skin, &$sidebar ): void {
+		$groups = $this->userGroupManager->getUserEffectiveGroups( $skin->getUser() );
 		foreach ( $groups as $group ) {
 			$message = 'sidebar-' . $group;
 			# addToSidebar currently won't throw errors if we call it
