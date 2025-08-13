@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"JeffreyKim"
+			"JeffreyKim",
+			"Ktchankt"
 		]
 	},
-	"groupssidebar-desc": "呢個擴充功能畀網站管理員可以為特定嘅使用者群組加入側欄元素"
+	"groupssidebar-desc": "呢個擴充功能畀網站管理員可以為特定嘅用戶群組加入側欄元素"
 }
