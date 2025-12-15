@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"IvanLanin"
+			"IvanLanin",
+			"Penyuwangi"
 		]
 	},
-	"groupssidebar-desc": "Memungkinkan admin situs untuk menyediakan bilah sisi spesifik per kelompok pengguna"
+	"groupssidebar-desc": "Pengaya ini memungkinkan pengurus situs untuk menyediakan bilah sisi khusu per kelompok pengguna"
 }
